@@ -20,6 +20,6 @@ function update()
 cd /Users/liwenhao/Desktop/IDEAProject/cps
 # 添加远程分支
 git remote add upstream git@git.elenet.me:testinfra/cps.git
-
+# 更新代码
 update
 
